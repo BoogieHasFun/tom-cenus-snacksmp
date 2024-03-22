@@ -65,13 +65,14 @@ code {
 }
 #cenus-hash {
     z-index: 3;
+    height: 30%;
 }
 
 #cenus-img {
     position: relative;
     height: 55em;
-    right: -20%;
-    bottom: 1em;
+    right: -30%;
+    bottom: 1.8em;
     z-index: 0;
 }
 
