@@ -63,10 +63,14 @@ code {
     white-space: break-spaces;
     font-size: 105%;
 }
+#cenus-hash {
+    z-index: 3;
+}
 
-.cenus-img {
+#cenus-img {
     position: relative;
-    width: 500px;
-    height: 500;
+    height: 600pt;
+    right: -20%;
+    z-index: 0;
 }
 
