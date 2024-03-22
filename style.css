@@ -64,12 +64,6 @@ code {
     font-size: 105%;
 }
 
-
-.img-container,
-.canvas-container {
-  display: flex;
-  justify-content: center;
-}
-.img-container {
-  visibility: hidden;
+.cenus-img {
+    width: 500px;
 }
